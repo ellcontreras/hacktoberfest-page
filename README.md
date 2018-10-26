@@ -4,19 +4,24 @@
 # HacktoberFest-Page
 Ayudanos a mejorar esta pequeña pagina para el Hacktoberfest. Esperamos que puedas ayudar.
 
-1- Mejora algun aspecto de la pagina (para bien).
-2- dale una estrella al repositorio
-3- agrega tu nombre, apodo, pais y profesion aqui
-4- envianos tu pullrequests
+1. Mejora algun aspecto de la pagina (para bien).
+2. dale una estrella al repositorio
+3. agrega tu nombre, apodo, pais y profesion aqui
+4. envianos tu pullrequests
 
 Help us improve this little page for the Hacktoberfest. We hope you can help.
 
-1- Improve some aspect of the page (for good).
-2- Give the repository a star
-3- add your Name, Nickname, Country and profession Here.
-4- send us your pullrequests
+1. Improve some aspect of the page (for good).
+2. Give the repository a star
+3. add your Name, Nickname, Country and profession Here.
+4. send us your pullrequests
 
 
+<html>
+<head>
+	<title></title>
+</head>
+<body>
 <tr>
 	<th scope="row">N°</th>
 	<th scope="col">Name</th>
@@ -59,6 +64,8 @@ Help us improve this little page for the Hacktoberfest. We hope you can help.
 	<td></td>
 	<td></td>
 </tr>
+</body>
+</html>
 
 
 
